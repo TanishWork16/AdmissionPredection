@@ -17,10 +17,10 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mdurl==0.1.2
 narwhals==1.9.1
-numpy==2.1.1
+numpy
 packaging==24.1
-pandas==2.2.3
-pillow==10.4.0
+pandas
+pillow
 protobuf==5.28.2
 pyarrow==17.0.0
 pydeck==0.9.1
@@ -31,11 +31,11 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.9.2
 rpds-py==0.20.0
-scikit-learn==1.5.2
+scikit-learn
 scipy==1.14.1
 six==1.16.0
 smmap==5.0.1
-streamlit==1.39.0
+streamlit
 tenacity==9.0.0
 threadpoolctl==3.5.0
 toml==0.10.2
